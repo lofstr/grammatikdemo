@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455197351143",
+    "firebase_url": "https://grammatikhjalpen.firebaseio.com",
+    "project_id": "grammatikhjalpen",
+    "storage_bucket": "grammatikhjalpen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455197351143:android:2044761c2f6eec626bd642",
+        "android_client_info": {
+          "package_name": "com.grammatikhjalpen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455197351143-8ro3f2mmugjlr06i3gu8hg7gqs0oo306.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4p76y7AAfmj4su5QeCRqk2AoUWVZDp-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455197351143-8ro3f2mmugjlr06i3gu8hg7gqs0oo306.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
